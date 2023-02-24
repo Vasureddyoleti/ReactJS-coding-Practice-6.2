@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.bg-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.searchBar-container {
+  background-color: #f1f5f9;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+}
+.searchBar {
+  background-color: #f1f5f9;
+  border: 1px solid #f1f5f9;
+  padding: 5px;
+}
+.searchLogo {
+  width: 32px;
+  height: 32px;
+}
+.searchItem-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #252627;
+  font-family: 'Roboto';
+}

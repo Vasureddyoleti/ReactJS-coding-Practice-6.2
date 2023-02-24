@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.each-item {
+  min-width: 500px;
+}
+
+.image {
+  width: 400px;
+  height: 250px;
+}
+.description {
+  font-family: 'Open Sans';
+  color: #000000;
+  font-weight: 600;
+}
